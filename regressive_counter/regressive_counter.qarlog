@@ -1,0 +1,17 @@
+Quartus Prime Archive log --	C:/Users/lucas/Documents/Poli/lab-dig-experimento-2026/regressive_counter/regressive_counter.qarlog
+
+Archive:	C:/Users/lucas/Documents/Poli/lab-dig-experimento-2026/regressive_counter/regressive_counter.qar
+Date:		Tue Feb 10 00:43:53 2026
+Quartus Prime		25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/lucas/Documents/Poli/lab-dig-experimento-2026/regressive_counter/hexa7seg.v
+C:/Users/lucas/Documents/Poli/lab-dig-experimento-2026/regressive_counter/one_second_counter.v
+C:/Users/lucas/Documents/Poli/lab-dig-experimento-2026/regressive_counter/regressive_counter.qpf
+C:/Users/lucas/Documents/Poli/lab-dig-experimento-2026/regressive_counter/regressive_counter.qsf
+C:/Users/lucas/Documents/Poli/lab-dig-experimento-2026/regressive_counter/regressive_counter.v
+c:/altera_lite/25.1std/quartus/bin64/assignment_defaults.qdf
+	======= Total: 6 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

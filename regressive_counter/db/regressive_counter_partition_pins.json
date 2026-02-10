@@ -1,0 +1,69 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "hex5_seconds_left[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hex5_seconds_left[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hex5_seconds_left[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hex5_seconds_left[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hex5_seconds_left[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hex5_seconds_left[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hex5_seconds_left[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ledr9_finished",
+					"strict" : false
+				},
+				{
+					"name" : "seconds_period[0]",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				},
+				{
+					"name" : "seconds_period[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seconds_period[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seconds_period[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

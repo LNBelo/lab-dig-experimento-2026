@@ -26,7 +26,7 @@ module regressive_counter (
     );
 
     always @(posedge clock) begin
-        if (~reset) begin // 1=Solto, 0=Apertado
+        if (~reset) begin
             valor_atual <= seconds_period;
             ledr9_finished <= 1'b0;
         end 

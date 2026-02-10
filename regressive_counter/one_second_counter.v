@@ -5,7 +5,7 @@ module one_second_counter (
 	output finished
 );
 
-integer one_second = 50_000_000;
+integer one_second = 50_000_000; // testei no gtkwave com 4;
 integer clock_counter = 0;
 
 reg finished_detect = 1'b0;
