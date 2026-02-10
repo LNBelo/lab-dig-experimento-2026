@@ -1,0 +1,9 @@
+# Ignorar pastas de compilação e banco de dados do Quartus
+/db/
+/incremental_db/
+/output_files/
+/simulation/
+
+# Ignorar arquivos de bloqueio e temporários
+*.flock
+*.qws
